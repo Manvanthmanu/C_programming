@@ -1,10 +1,4 @@
-//  basic template
-//  compiler
-//  download mingw
-//  .exe file 
-//  hello world
-//  understanding this 
-//  boiler plate code
+// variables
 
 #include<stdio.h>
 
